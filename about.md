@@ -20,4 +20,7 @@ Minha experiência inclui automação de workflows e desenvolvimento de arquitet
 - RAG, bases vetoriais e aplicações de IA
 - Automação de workflows e processamento assíncrono
 
-<a class="button button-primary" href="https://www.linkedin.com/in/josiele-ferreira-90686a1b2/" target="_blank" rel="noopener noreferrer">Conecte-se comigo no LinkedIn</a>
+<div class="page-actions">
+  <a class="button button-primary" href="https://www.linkedin.com/in/josiele-ferreira-90686a1b2/" target="_blank" rel="noopener noreferrer">Conecte-se comigo no LinkedIn</a>
+  <a class="button button-outline" href="{{ '/assets/docs/curriculo-josiele-ferreira.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Visualizar currículo</a>
+</div>
