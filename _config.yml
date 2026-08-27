@@ -1,4 +1,14 @@
-title: Meu Blog
-description: Textos, ideias e projetos
-theme: minima
+title: Blog - Josiele Ferreira
+description: Engenharia de Dados, Inteligência Artificial e Machine Learning
 lang: pt-BR
+url: "https://josieleferreira.github.io"
+author:
+  name: Josiele Ferreira
+  role: Engenheira de Dados
+  linkedin: "https://www.linkedin.com/in/josiele-ferreira-90686a1b2/"
+  github: "https://github.com/josieleferreira"
+  medium: "https://medium.com/@josieleferreira.phb"
+permalink: /artigos/:title/
+markdown: kramdown
+exclude:
+  - README.md
